@@ -1,0 +1,5 @@
+action,wave,kind,at,account,source
+C1,W1,account_link_correction,2026-08-20,A2,identity-r2
+C2,W2,episode_coverage_correction,2026-09-05,,edition-r2
+C3,W2,hold_disputed_quota,2026-09-05,A6,M6
+C4,W2,refund_cutoff,2026-09-28,,terms

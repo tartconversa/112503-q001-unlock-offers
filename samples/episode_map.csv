@@ -1,0 +1,8 @@
+edition,episode,canonical,coverage,src_rev
+V1,1,E1,full,r1
+V1,2,E2,full,r1
+V1,3,E3,full,r1
+V2,1,E1,recap,r1
+V2,2,E2,full,r1
+V2,2,E2,recap,r2
+V2,3,E3,full,r1

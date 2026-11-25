@@ -1,0 +1,5 @@
+wave,stratum,starts,ends,watch_days,refund_days,ad_quota,balance_quota
+W1,new,2026-08-01,2026-08-07,7,14,80,80
+W1,returning,2026-08-01,2026-08-07,7,14,80,80
+W2,new,2026-09-01,2026-09-07,7,14,65,65
+W2,returning,2026-09-01,2026-09-07,7,14,65,65
